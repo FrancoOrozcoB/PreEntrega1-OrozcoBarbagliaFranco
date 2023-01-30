@@ -5,7 +5,7 @@ for (i=0; i>=0;i++)
     }
     else{ 
         (nombre != "");
-        alert ("Hola "+ nombre + " a continuacion te pediremos que respondas las siguientes preguntas para poder brindarte el mejor seguro");
+        alert ("Hola "+ nombre + " para poder darte el mejor seguro, porfavor completa las siguientes preguntas");
         break;
     }
 console.log(nombre);
